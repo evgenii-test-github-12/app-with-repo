@@ -1,0 +1,8 @@
+name: evgenii-test-github-12/app-with-repo
+description: my spicepod
+version: v1beta1
+kind: Spicepod
+
+dependencies:
+  - luke/demo
+  # - spiceai/datasets
