@@ -4,5 +4,5 @@ version: v1beta1
 kind: Spicepod
 
 dependencies:
-  #  lukekim/demo
-  # - spiceai/datasets
+  - lukekim/demo
+  - spiceai/datasets
